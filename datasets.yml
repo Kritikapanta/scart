@@ -1,0 +1,5 @@
+path: C:\Datasets
+train: C:\Datasets\images  # Path to training images
+val: C:\Datasets\images   # Use the same folder for validation if you don't have a separate validation set
+nc: 2          # Number of classes
+names: ['keyboard', 'mouse']  # Class names
